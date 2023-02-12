@@ -1,0 +1,35 @@
+.tech{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.compo{
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 30px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.techimg{
+    background-image: url(https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 250px;
+    margin: 15px;
+}
+.techimg1{
+    background-image: url(https://www.qualitydevs.com/wp-content/uploads/2017/12/desarrollador-1288x724.jpg);
+}
+.techimg2{
+    background-image: url(https://nypost.com/wp-content/uploads/sites/2/2022/02/artificial-intelligence-210713-comp.jpg?quality=75&strip=all);
+}
+.techtxt{
+    width: 250px;
+    height: 250px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}

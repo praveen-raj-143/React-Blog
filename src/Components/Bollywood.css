@@ -1,0 +1,123 @@
+.Content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Container{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.Container2{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.topbox{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 25px;
+    background-size: cover;
+    text-align: center;
+}
+.topbollyimg{
+    width: 220px;
+    height: 220px;
+    margin: auto;
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg);
+    background-size: cover;
+}
+.topbollyimg1{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZjY2MmI1ZWItNmU0Yy00NTdkLWJiYmQtNzFlZWNlMzkxZTZjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_FMjpg_UX1000_.jpg);
+}
+.topbollyimg2{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg);
+}
+.topimgholly{
+    width: 220px;
+    height: 220px;
+    margin: auto;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/pp_disney_blackpanther_wakandaforever_1289_d3419b8f.jpeg);
+    background-size: cover;
+}
+.topimgholly1{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg);
+}
+.topimgholly2{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg);
+}
+.bollyimg{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+}
+.bollyimg1{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZjY2MmI1ZWItNmU0Yy00NTdkLWJiYmQtNzFlZWNlMzkxZTZjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_FMjpg_UX1000_.jpg);
+}
+.bollyimg3{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMWU1NDlkZGYtMDM4Yi00MGU5LWE0YzEtMjEyNjJkY2YxOGY1XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg);
+}
+.bollyimg2{
+    background-image: url(https://i.ytimg.com/vi/VgGgYOzNWno/maxresdefault.jpg);
+}
+.bollyimg4{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg);
+}
+.bollyimg5{
+    background-image: url(https://assets.gadgets360cdn.com/pricee/assets/product/202205/Gangubai_Kathiawadi_poster_1652093021.jpeg);
+}
+.bollytxt{
+    width: 250px;
+    height: 250px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}
+.hollyimg{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+}
+.holly1{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg);
+}
+.holly2{
+    background-image: url(https://www.bollymoviereviewz.com/wp-content/uploads/2019/08/Fast-and-Furious-Hobbs-and-Shaw-Review-1-780x439.jpg);
+}
+.holly3{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810);
+}
+.holly4{
+    background-image: url(https://m.economictimes.com/thumb/height-450,width-600,imgsize-80252,msid-88317664/spider-man-no-way-home-is-also-driving-more-mentions-and-conversations-on-social-media-than-any-other-pandemic-era-release-.jpg);
+}
+.holly5{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg);
+}
+.holly6{
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/pp_disney_blackpanther_wakandaforever_1289_d3419b8f.jpeg);
+}
+.holly7{
+    background-image: url(https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg);
+}
+.hollytxt{
+    width: 250px;
+    height: 250px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}

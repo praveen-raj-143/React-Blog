@@ -1,0 +1,63 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.child{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 25px;
+    text-align: center;
+    font-style: italic;
+}
+.parent1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.child1{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 25px;
+    text-align: center;
+    font-style: italic;
+}
+.imgfood{
+    background-image: url(https://assets.limetray.com/assets/user_images/menus/compressed/1636789829_Tandoorichickennew.jpg);
+    width: 280px;
+    height: 250px;
+    
+    background-size: cover;
+    margin: 10px;
+}
+
+.food2{
+    background-image: url(https://cdn3.mydukaan.io/app/image/700x700/?url=https://mydukaan-prod-new.s3.amazonaws.com/404307/a32fce5e-7e7a-4c2c-806b-1e3d27694a5c.png);
+}
+.food3{
+    background-image: url(https://kohinoor-joy.com/wp-content/uploads/2020/01/indo-chinese-food.jpg);
+}
+.food4{
+    background-image: url(https://cdn.shopify.com/s/files/1/0273/4564/9738/products/meals.jpg?v=1571216142);
+}
+.imgfit{
+    background-image: url(https://wallpaperaccess.com/full/1108004.jpg);
+    width: 280px;
+    height: 250px;
+    
+    background-size: cover;
+    margin: 10px;
+}
+.fit2{
+    background-image: url(https://yoga.ayush.gov.in/public/assets/front/img/gallery/3.1.jpg);
+}
+.fit3{
+    background-image: url(https://images.everydayhealth.com/images/consisten-exercise-helps-anxiety-and-stress-1440x810.jpg);
+}
+.fit4{
+    background-image: url(https://www.mensjournal.com/wp-content/uploads/mf/imgs-flexibility-inarticle.gif?w=700);
+}

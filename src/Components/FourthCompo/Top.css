@@ -1,0 +1,40 @@
+.tpoq{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.top{
+    width: 700px;
+    height: 550px;
+    margin-top: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-image: url(https://images.indianexpress.com/2023/01/Nandamuri-Balakrishna.jpg);
+    background-size: cover;
+}
+.topcontent{
+    display: flex;
+    flex-direction: column;
+} 
+.topitem{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.imgpos{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg);
+    width: 200px;
+    height: 180px;
+    background-size: cover;
+    margin: 10px;
+}
+.txtpos{
+    width: 200px;
+    height: 180px;
+    font-style: italic;
+    text-align: center;
+}
